@@ -75,3 +75,4 @@ ask at [jersey@javaee.groups.io][jersey-users], [StackOverflow][jersey-so] or fi
 [jersey-twitter]: http://twitter.com/gf_jersey
 [jersey-users]: mailto:jersey@javaee.groups.io
 [jersey-web]: http://jersey.github.io
+lol
